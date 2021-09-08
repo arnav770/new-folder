@@ -1,0 +1,11 @@
+#rick {
+    color: red;
+    border-radius: 10px;
+    border: 1px solid blue;
+}
+
+body {
+    background: cover;
+    text-align: center;
+    background:url(https://api.time.com/wp-content/uploads/2018/04/listening-to-music-headphones.jpg?w=824&quality=70);
+}
